@@ -1,0 +1,22 @@
+To run this files, do the following:
+
+javac Hash_8522.java HashCreate_8522.java HashImplement_8522.java
+java HashImplement_8522 {fileName}.txt
+
+PLEASE!!!! Make sure that the file that you will use doesn't have any 
+empty lines. Other wise it will print out an error along with the result
+
+Example: GOOD
+14 11
+10 alex
+11 alex
+13
+----------------------------------------------------
+Example: Bad (PLEASE don't make the file like that)
+14 11
+
+10 alex
+
+13
+
+----------------------------------------------------
